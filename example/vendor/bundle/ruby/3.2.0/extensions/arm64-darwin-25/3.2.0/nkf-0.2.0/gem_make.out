@@ -1,0 +1,19 @@
+current directory: /Users/anthonychoi/Divefun/app/module/liquid-glass-react-native/example/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+/Users/anthonychoi/.rbenv/versions/3.2.3/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/anthonychoi/Divefun/app/module/liquid-glass-react-native/example/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250628-24795-vypq8t sitelibdir\=./.gem.20250628-24795-vypq8t clean
+
+current directory: /Users/anthonychoi/Divefun/app/module/liquid-glass-react-native/example/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250628-24795-vypq8t sitelibdir\=./.gem.20250628-24795-vypq8t
+compiling nkf.c
+linking shared-object nkf.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/anthonychoi/Divefun/app/module/liquid-glass-react-native/example/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250628-24795-vypq8t sitelibdir\=./.gem.20250628-24795-vypq8t install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20250628-24795-vypq8t
+
+current directory: /Users/anthonychoi/Divefun/app/module/liquid-glass-react-native/example/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250628-24795-vypq8t sitelibdir\=./.gem.20250628-24795-vypq8t clean
